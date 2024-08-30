@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+
+}
+body{
+    background-color: rgb(35, 217, 202);
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: rgb(19, 4, 38);
+    font-style: italic;
+    line-height: 5rem;
+
+}
+.input{
+    margin-top: 2rem;
+}
+.input-group{
+    width :100%;
+    font-size: 1rem;
+    border:none;
+    display: inline;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:5rem;
+
+}
+.operators{
+    margin-top: 4rem;
+}
+ .choice{
+    height:45px;
+    width: 45px;
+    display: inline;
+    justify-content: center;
+    align-items: center; 
+    margin-top:45 px;
+
+}
+.add{
+    width:50px;
+}
+.sub{
+    width:50px;
+}.mul{
+    width:50px;
+}.div{
+    width:50px;
+}
+
+.output-group{
+    font-size: 1rem;
+    margin-top:4rem;
+
+
+}
